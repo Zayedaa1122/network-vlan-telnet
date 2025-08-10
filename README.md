@@ -1,13 +1,6 @@
-<table>
-  <tr>
-    <td width="60%" style="vertical-align: top;">
-      تكوين شبكة تعتمد على VLANs مع تفعيل خدمة Telnet للوصول والتحكم عن بُعد في السويتشات. بدلاً من الاتصال المباشر عبر كابل Console، يتم الوصول عبر IP باستخدام Telnet. تشمل الشبكة أقسام AI، IT، والمهندسين مع تخصيص منافذ وعناوين IP لكل VLAN.
-    </td>
-    <td width="40%" style="vertical-align: top;">
-      <img src="vlan1.png" alt="VLAN Diagram" style="width:100%; height:auto;"/>
-    </td>
-  </tr>
-</table>
+<div>
+<img src="صور/vlan1.png" alt="VLAN Diagram" style="width:100%; height:auto;"/>
+</div>
 وصف المشروع:
 
 تكوين شبكة تعتمد على VLANs مع تفعيل خدمة Telnet للوصول والتحكم عن بُعد في السويتشات.
