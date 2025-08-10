@@ -1,5 +1,5 @@
 <div>
-<img src="صور/vlan1.png" alt="VLAN Diagram" style="width:100%; height:auto;"/>
+<img src="vlan1.png" alt="VLAN Diagram" style="width:100%; height:auto;"/>
 </div>
 وصف المشروع:
 
