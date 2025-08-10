@@ -4,7 +4,7 @@
       تكوين شبكة تعتمد على VLANs مع تفعيل خدمة Telnet للوصول والتحكم عن بُعد في السويتشات. بدلاً من الاتصال المباشر عبر كابل Console، يتم الوصول عبر IP باستخدام Telnet. تشمل الشبكة أقسام AI، IT، والمهندسين مع تخصيص منافذ وعناوين IP لكل VLAN.
     </td>
     <td width="40%">
-      <img src="images/vlan.png" alt="Network Screenshot" width="300"/>
+      <img src="network-vlan-telnet/vlan.png" alt="Network Screenshot" width="300"/>
     </td>
   </tr>
 </table>
