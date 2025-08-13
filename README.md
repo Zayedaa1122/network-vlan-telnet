@@ -96,4 +96,24 @@ Switch-2: 20.0.0.2
 
 Switch-3:20.0.0.3
 
+دخول عبر كابل  Console 
+sw1, password: 12345
+enable password:123456
+
+sw2
+Console password:12345
+enable password:123467
+
+sw3
+Console password:12345
+enable password:12345678
+
+دخول عبر fa / Telnet  
+جميع كلمة المرور  والاسم موحد على Telnet 
+User yo pass  yo
+user yor pass yor 
+
+
+
+
 ملاحظة  لقد تم ارفق الملف في المستودع vlan+telnet.pkt
