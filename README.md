@@ -117,6 +117,8 @@ enable password:12345678
 جميع كلمة المرور  والاسم موحد على Telnet 
 
 User yo pass  yo
+
+
 user yor pass yor 
 
 
